@@ -1,0 +1,9 @@
+const ACTION_TYPE = {
+  CRUD: {
+    CREATE_NOTE: 'CREATE_NOTE',
+    READ_NOTE: 'READ_NOTE',
+    DELETE_NOTE: 'DELETE_NOTE',
+    UPDATE_NOTE: 'UPDATE_NOTE',
+  },
+};
+export default ACTION_TYPE;
